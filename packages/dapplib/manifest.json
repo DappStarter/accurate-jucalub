@@ -1,0 +1,19 @@
+{
+    "name": "Consentir",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/contract_access": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/file_storage/sia": true,
+        "/category/file_storage/sia/mode": "multiple",
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Consents",
+        "/category/asset_value_tracking/token/symbol": "CTS",
+        "/category/asset_value_tracking/token/decimals": "11",
+        "/category/asset_value_tracking/token/supply": "50000000",
+        "/category/collection/entity": true
+    }
+}
